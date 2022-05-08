@@ -3,7 +3,7 @@
 # @Author : 倪浩凡
 # @Email : connorauditorechina@outlook.com
 # @File : 名称统计小工具.py
-# @Project : Python吴天赐
+# @Project : Python
 
 """
 新建一个名为name.txt的文档，名字一行一个，将name.txt和程序放在一起
